@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "Transform your daily routines with a complete habit tracker featuring accurate calendar tracking, progress analytics, streaks, account synchronization, and Gemini AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

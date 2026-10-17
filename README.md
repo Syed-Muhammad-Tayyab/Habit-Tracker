@@ -140,7 +140,7 @@ You can export everything as JSON or delete it from **Profile → Data**.
     </td>
     <td>
       <h3>Syed Muhamad Tayyab</h3>
-      <p>Computer Science student · Android &amp; web developer · cybersecurity enthusiast</p>
+      <p>Computer Science student · Android &amp; Web Developer · Cybersecurity Enthusiast</p>
       <p><b>Created with ❤️ by Syed Muhamad Tayyab</b></p>
     </td>
   </tr>

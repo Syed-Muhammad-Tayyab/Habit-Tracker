@@ -75,8 +75,8 @@ Bottom navigation: **Home · Progress · Calendar · Challenge · Profile**
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+https://github.com/Syed-Muhammad-Tayyab/Habit-Tracker.git
+cd Habit-Tracker
 
 # 2. Build & install on a connected device / emulator
 ./gradlew installDebug        # Windows: gradlew.bat installDebug
